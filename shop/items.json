@@ -95,18 +95,11 @@
       },
       {
         "keyword": "엑스트라버진 올리브유",
-        "products": [
-          {
-            "name": "코카콜라 오리지널, 190ml, 30개",
-            "price": 13240,
-            "image": "https://ads-partners.coupang.com/image1/c955iZ1FIX_KmbancxG0qduQAo1xFOQFmS1-Fcis0CkHvPqXH_O7iBqmmVg9BxSYGOR3-4XLHu_TcRX-DcuZBlYpAxGzGAJ4GEkpDO_dTYeZoZjzqWwmLBJX9Q0WOE1nsBIC5l4e_fCiGZJno5LiCcJo2FglWCPF4x6NfbPGZiNmqY1_V94ktwH4mKa4PpUfg6G_HDtVstCz8ayekzhaRWyD4JsOckr7IHcIT8YJhS7ZlcncigAoWlSYc8LKj2kk9rSCLEBv4eSKkth9kVG3fbmCg6sqBNoLeg23v5eEhJy0P1TXYfPdmJpxlztrBJzyOz3U3eHoqODPfWisPJYwlGB-6TYFeHqOgQ31TTfA76VOyIyUrI_Z6Z1lZINqGqelKmOBYM5zMILpRV_OERPcb4PawLJkLBAw7pS4GZVfBc_9jIHzuQnJcrHtnqIfKjL9WwEYBdDN7hS51uP2nvPyp1hp2LyBi759lOffYIQWvUVleWRhe-Un_VsZ8BxiVNwOP0HqzMnf2s2z4MecVjkVXqv8CkfuzTGiTQ==",
-            "url": "https://link.coupang.com/re/AFFSDP?lptag=AF3322291&subid=happyshorts&pageKey=9371774&itemId=21184770164&vendorItemId=88377301422&traceid=V0-153-90293e766f4ba76f&pt=0&requestid=20261019134259886186504524&slot=1",
-            "rocket": true,
-            "no": 29
-          }
-        ],
-        "affiliate": true,
-        "label": "엑스트라버진 올리브유"
+        "products": [],
+        "affiliate": false,
+        "label": "엑스트라버진 올리브유",
+        "search_url": "https://www.coupang.com/np/search?q=%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC%EB%B2%84%EC%A7%84%20%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%9C%A0",
+        "no": 29
       }
     ],
     "answer_label": "무볶음 아몬드",
